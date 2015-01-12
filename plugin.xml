@@ -47,7 +47,7 @@
 
     <config-file target="res/xml/config.xml" parent="/*">
       <feature name="SharedConfigurations">
-        <param name="android-package" value="com.hecticus.cordova.plugins.sharedconfigurations.sharedconfigurations" />
+        <param name="android-package" value="com.hecticus.cordova.plugins.sharedconfigurations" />
       </feature>
     </config-file>
 
